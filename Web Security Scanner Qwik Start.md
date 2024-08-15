@@ -17,4 +17,4 @@ sudo chmod +x gsp112.sh
 
 ### Congratulations! 🎉
 
-## You have successfully completed the lab on
+## You have successfully completed the lab on Web Security Scanner: Qwik Start
